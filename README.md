@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sk-go
-- 👀 I’m interested in the universe
-- 🌱 I’m currently learning rust
+- 👋 Hi, I’m sasha
+- 🌱 I’m currently learning langgraph
 - 💞️ I’m looking to collaborate on educational projects
-- 📫 How to reach me kaunsasha@proton.me
+- 📫 How to reach me? kaunsasha@proton.me
 
 <!---
 sk-go/sk-go is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
